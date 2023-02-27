@@ -467,6 +467,12 @@ nav a:hover {
     background-attachment: fixed;
 }
 
+#s6 a {
+  color:#030202;
+  text-decoration: none;
+  font-weight: 700;
+}
+
 .gradient-button {
   text-decoration: none;
   display: inline-block;
